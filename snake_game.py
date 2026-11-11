@@ -26,7 +26,6 @@ BLOCK_SIZE = 20
 SPEED = 20
 
 class SnakeGame:
-    
     def __init__(self, w=640, h=480):
         self.w = w
         self.h = h
@@ -137,10 +136,8 @@ if __name__ == '__main__':
     # game loop
     while True:
         game_over, score = game.play_step()
-        
         if game_over == True:
             break
         
     print('Final Score', score)
-        
     pygame.quit()
