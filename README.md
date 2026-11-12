@@ -1,4 +1,4 @@
-# 🐍 Snake AI — Deep Q-Learning with PyTorch & Pygame
+# 🐍 Snake AI - Deep Q-Learning with PyTorch & Pygame
 
 An Artificial Intelligence agent trained to play the classic Snake game from scratch using **Deep Reinforcement Learning (Deep Q-Network)**, implemented in Python with **PyTorch**, **Pygame**, and **NumPy**.
 
