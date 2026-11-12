@@ -37,7 +37,6 @@ Snake-Game/
 ├── .gitattributes      # Git line-ending normalization configuration
 ├── .gitignore          # Ignored cache, virtual environment, and model weight files
 ├── agent.py            # Deep Q-Learning agent, state extraction, memory, and training loop
-├── arial.ttf           # TrueType font file for Pygame UI rendering
 ├── game.py             # AI-controlled Snake environment (640x480, 40 FPS)
 ├── helper.py           # Live Matplotlib training progress plotter (Score & Mean Score)
 ├── model.py            # PyTorch Linear_QNet architecture and QTrainer Bellman update logic
